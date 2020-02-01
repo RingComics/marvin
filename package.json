@@ -1,0 +1,17 @@
+{
+  "name": "marvin",
+  "version": "1.0.0",
+  "description": "Bot that fetches SCP articles",
+  "main": "index.js",
+  "scripts": {
+    "test": "!test"
+  },
+  "author": "RingComics",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^11.5.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
